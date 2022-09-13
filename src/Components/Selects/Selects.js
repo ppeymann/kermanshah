@@ -13,7 +13,7 @@ import SelectImg from '../selectImg/SelectImg';
 
 const Selects = () => {
   return (
-    <div className='selects' >
+    <div name="select" className='selects' >
         <div className='container'>
         <SelectImg bgImg={one} text="طاقبستان" />
         <SelectImg bgImg={two} text="تکیه معاون الملک" />

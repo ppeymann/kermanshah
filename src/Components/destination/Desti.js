@@ -9,7 +9,7 @@ import fiftedI from "../../Assets/piran.jpg"
 
 const Desti = () => {
   return (
-    <div className='desti' >
+    <div name="desti" className='desti' >
         <div className='container'>
             <h1>تفریحگاه ها</h1>
             <p>آثار باستانی و مناظر زیبا</p>
